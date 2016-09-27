@@ -1,275 +1,268 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Review Talk v1.0\n"
-"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
 "POT-Creation-Date: 2016-09-27 09:32+0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Your Name <you@example.com>\n"
 "Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
-"Language: ru\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
-"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
-"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
 "X-Generator: Poedit 1.8.7.1\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: archive.php:14
 msgid "Category"
-msgstr "Категория"
+msgstr ""
 
 #: archive.php:17
 msgid "Tag"
-msgstr "Метка"
+msgstr ""
 
 #: archive.php:20
 msgid "Archive"
-msgstr "Архив"
+msgstr ""
 
 #: archive.php:23
 msgid "Author"
-msgstr "Автор"
+msgstr ""
 
 #: archive.php:58 index.php:54 search.php:43 single.php:53
 msgid "No comments"
-msgstr "﻿Нет комментариев"
+msgstr ""
 
 #: archive.php:58 index.php:54 search.php:43 single.php:53
 msgid "One Comment"
-msgstr "Один комментарий"
+msgstr ""
 
 #: archive.php:58 index.php:54 search.php:43 single.php:53
 msgid "% Comments"
-msgstr "Комментарии: %"
+msgstr ""
 
 #: archive.php:69 index.php:69
-msgid ""
-"It seems we cannot find what you are looking for. Perhaps you should try "
-"again with a different search term."
-msgstr "Ничего не найдено. Попробуйте изменить параметры поиска."
+msgid "It seems we cannot find what you are looking for. Perhaps you should try again with a different search term."
+msgstr ""
 
 #: comments.php:20
 msgid "Comments"
-msgstr "Комментарии"
+msgstr ""
 
 #: comments.php:22
 msgid "Leave a comment >"
-msgstr "Комментировать >"
+msgstr ""
 
 #: comments.php:36
 msgid "Name"
-msgstr "Имя"
+msgstr ""
 
 #: comments.php:38
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: comments.php:40
 msgid "URL"
-msgstr "Сайт"
+msgstr ""
 
 #: comments.php:45
 msgid "Comment text..."
-msgstr "Текст комментария..."
+msgstr ""
 
 #: comments.php:48
 msgid "Share your thoughts"
-msgstr "Добавить комментарий"
+msgstr ""
 
 #: comments.php:50
 msgid "Submit a comment >"
-msgstr "Отправить >"
+msgstr ""
 
 #: footer.php:31
 #, php-format
 msgid "Copyright &copy; %1$s %2$s"
-msgstr "Копирайт &copy; %1$s %2$s"
+msgstr ""
 
 #: footer.php:36
 #, php-format
 msgid "Powered by %1$s and %2$s"
-msgstr "Создано %1$s и %2$s"
+msgstr ""
 
 #: functions.php:50
 msgctxt "Default header image"
 msgid "Books"
-msgstr "Книги"
+msgstr ""
 
 #: functions.php:101
 msgid "Main Sidebar"
-msgstr "Главный сайдбар"
+msgstr ""
 
 #: functions.php:102
 msgid "Single right sidebar"
-msgstr "Правый сайдбар"
+msgstr ""
 
 #: functions.php:114
 msgid "First Footer Widget Area"
-msgstr "1-й сабфутер"
+msgstr ""
 
 #: functions.php:116
 msgid "left footer widget area"
-msgstr "левая область виджетов"
+msgstr ""
 
 #: functions.php:127
 msgid "Second Footer Widget Area"
-msgstr "2-й сабфутер"
+msgstr ""
 
 #: functions.php:129
 msgid "middle footer widget area"
-msgstr "центральная область виджетов"
+msgstr ""
 
 #: functions.php:140
 msgid "Third Footer Widget Area"
-msgstr "3-й сабфутер"
+msgstr ""
 
 #: functions.php:142
 msgid "right footer widget area"
-msgstr "правая область виджетов"
+msgstr ""
 
 #: functions.php:185 functions.php:226
 msgid "(Edit)"
-msgstr "(Редактировать)"
+msgstr ""
 
 #: functions.php:188
 #, php-format
 msgid "on %1$s, %2$s "
-msgstr "%1$s, %2$s "
+msgstr ""
 
 #: functions.php:192
 msgid "Your comment is awaiting moderation."
-msgstr "Ваш комментарий проходит проверку."
+msgstr ""
 
 #: functions.php:202
 msgid "REPLY"
-msgstr "ОТВЕТИТЬ"
+msgstr ""
 
 #: functions.php:208
 msgid "SHARE"
-msgstr "ПОДЕЛИТЬСЯ"
+msgstr ""
 
 #: functions.php:222
 #, php-format
 msgid "By %1$s on %2$s at %3$s"
-msgstr "%1$s %2$s %3$s"
+msgstr ""
 
 #: functions.php:230
 msgid "Your trackback is awaiting moderation."
-msgstr "Ваш трекбек проходит проверку."
+msgstr ""
 
 #: functions.php:268
 msgid "Read More"
-msgstr "Подробнее..."
+msgstr ""
 
 #: index.php:46 page.php:24 single.php:34
 msgid "Edit"
-msgstr "Редактировать"
+msgstr ""
 
 #: search.php:11
 msgid "Search Results Found For"
-msgstr "Результаты поиска для"
+msgstr ""
 
 #: search.php:54
 msgid ""
 "It seems we cannot find what you are looking for.\n"
 "\t\t\t\t\t\t\tPerhaps you should try again with a different search term."
-msgstr "Ничего не найдено. Попробуйте изменить параметры поиска."
+msgstr ""
 
 #: sidebar.php:14
 msgid "recent posts"
-msgstr "последние записи"
+msgstr ""
 
 #: sidebar.php:28
 msgid "recent comments"
-msgstr "свежие комментарии"
+msgstr ""
 
 #: sidebar.php:42
 msgid "&nbsp;on&nbsp;"
-msgstr "&nbsp;>&nbsp;"
+msgstr ""
 
 #: sidebar.php:49
 msgid "archive"
-msgstr "архив"
+msgstr ""
 
 #: sidebar.php:61
 msgid "categories"
-msgstr "категории"
+msgstr ""
 
 #: sidebar.php:74
 msgid "Search"
-msgstr "Поиск"
+msgstr ""
 
 #: single.php:38
 msgid "&#8592; Next post"
-msgstr "&#8592; Следующий пост"
+msgstr ""
 
 #: single.php:39
 msgid "Next post"
-msgstr "Следующий пост"
+msgstr ""
 
 #: single.php:40
 msgid "Previous post &#8594;"
-msgstr "Предыдущий пост &#8594;"
+msgstr ""
 
 #: single.php:41
 msgid "Previous post"
-msgstr "Предыдущий пост "
+msgstr ""
 
 #: widgets/contact-info.php:21
 msgid "Contact Info"
-msgstr "Контакты"
+msgstr ""
 
 #: widgets/contact-info.php:24
 msgid "Widget for adding contact information"
-msgstr "Виджет для добавления контактной информации"
+msgstr ""
 
 #: widgets/contact-info.php:86 widgets/social-icons.php:232
 msgid "Title:"
-msgstr "Заголовок:"
+msgstr ""
 
 #: widgets/contact-info.php:90
 msgid "Phone number:"
-msgstr "Телефон:"
+msgstr ""
 
 #: widgets/contact-info.php:92
 msgid "Email address:"
-msgstr "Email:"
+msgstr ""
 
 #: widgets/contact-info.php:94
 msgid "Address:"
-msgstr "Адрес:"
+msgstr ""
 
 #: widgets/contact-info.php:96
 msgid "Fax number:"
-msgstr "Факс:"
+msgstr ""
 
 #: widgets/social-icons.php:23
 msgid "Social Icons"
-msgstr "Социальные сети"
+msgstr ""
 
 #: widgets/social-icons.php:26
 msgid "Widget for adding social media icons"
-msgstr "Виджет для добавления социальных сетей"
+msgstr ""
 
 #: widgets/social-icons.php:235
 msgid "Enter URL of social services you want to display."
-msgstr "Введите URL социальных сервисов которые вы хотите отображать."
+msgstr ""
 
 #: widgets/social-icons.php:271
 msgid "Odnoklassniki"
-msgstr "Одноклассники"
+msgstr ""
 
 #: widgets/social-icons.php:305
 msgid "Vkontakte"
-msgstr "Вконтакте"
-
-#~ msgid "COPYRIGHT &copy;"
-#~ msgstr "&copy;"
+msgstr ""
